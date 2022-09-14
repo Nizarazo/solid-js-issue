@@ -21,7 +21,6 @@
   },
   "dependencies": {
     "uuid": "9.0.0",
-    "solid-js": "^1.3.7",
-    "solidjs-infra": "1.0.0"
+    "solid-js": "^1.3.7"
   }
 }

@@ -2,8 +2,8 @@ import type { Component, createEffect } from 'solid-js';
 
 import "./blender-channel-view.less";
 import {ChannelProps} from "../../models/blender"
-import Slider from "solidjs-infra/components/sliders/slider/slider";
-import Meter from "solidjs-infra/components/meter/meter";
+import Slider from "../solidjs-infra/components/sliders/slider/slider";
+import Meter from "../solidjs-infra/components/meter/meter";
 
 //const Channel: Component <ChannelProps> = props => {
 
