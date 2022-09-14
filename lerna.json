@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "packages/*",
+    "packages/blender/*"
+  ],
+  "version": "0.0.0"
+}

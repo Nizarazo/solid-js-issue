@@ -1,0 +1,6 @@
+0 silly argv { _: [ 'bootstrap' ], lernaVersion: '3.22.1', '$0': 'lerna' }
+1 notice cli v3.22.1
+2 verbose rootPath /p4client/ProAudio/dev_main/ProAudio/XPlatform/Common_Sources/HTML_Packages
+3 error JSONError: Unexpected token } in JSON at position 2547 while parsing near '...-cli": "^3.3.10",  },  "keywords": [ ...' in packages/sample-surfer-app/package.json
+3 error     at module.exports (/usr/local/lib/node_modules/lerna/node_modules/parse-json/index.js:26:19)
+3 error     at parse (/usr/local/lib/node_modules/lerna/node_modules/load-json-file/index.js:15:9)

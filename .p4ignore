@@ -1,0 +1,16 @@
+# Mac
+node_modules/
+dist/
+out/
+*.DS_Store
+.vscode/
+
+# Windows
+node_modules\
+dist\
+out\
+.vscode\
+
+# Mac and Windows:
+package-lock.json
+
